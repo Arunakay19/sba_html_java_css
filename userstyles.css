@@ -1,0 +1,35 @@
+
+/*
+p{
+    background-color: blueviolet;
+}
+
+
+*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+  width: 100%;
+  background-color: rgb(245, 143, 106); 
+}
+.navbar-brand{
+  color: white;
+}
+.nav-link{
+  color: whitesmoke;
+}
+.img-fluid{
+  width: 100%;
+  height: auto;
+
+}
+
+.btn {
+    /*background-color: rgb(222, 126, 91);*/
+     background-color: black;
+
+    }
+    
